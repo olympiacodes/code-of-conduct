@@ -1,7 +1,6 @@
 # DRAFT: Community Code of Conduct
 
-We are committed to providing a friendly, safe and welcoming environment for experienced and aspiring technologists, regardless of age, disability, gender, nationality, race, religion, sexuality, or similar personal characteristic. 
-
+We are committed to providing a friendly, safe and welcoming environment for experienced and aspiring technologists, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
 
 ## Purpose
 

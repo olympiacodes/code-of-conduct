@@ -2,24 +2,16 @@
 
 We are committed to providing a friendly, safe and welcoming environment for experienced and aspiring technologists, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
 
-## Purpose
-
 The purpose of our Community Code of Conduct is to ensure that all participants have the best possible experience, while fostering an open and welcoming environment.
-
-To that end, the goals of the Community Code of Conduct are to: 
-
-1. Specify a baseline standard of behavior so that people with different social values and communication styles can talk effectively, productively, and respectfully.
-2. Provide a mechanism for resolving conflicts in the community when they arise.
-3. Make our community welcoming to people from different backgrounds.
 
 
 ## Scope
 
 This Community Code of Conduct applies to:
 
-1. Community online communication channels. Including, but not limited to: Slack/IRC channels, mailing lists, websites forums, and social media groups.
-2. Community events. Including, but not limited to: meetups and workshops.
-3. Contributions to community open source projects. Including, but not limited to: code, comments, commits, wiki edits, and issues.
+1. Community online communication channel including Slack, mailing lists, and social media groups.
+2. Community events including meetups and workshops.
+3. Contributions to community open source projects including, but not limited to code, comments, commits, wiki edits, and issues.
 
 
 ## Our Standards

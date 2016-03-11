@@ -41,10 +41,6 @@ Examples of unacceptable behavior by participants include:
 * Publishing others' private information, such as a physical or electronic address, without explicit permission
 * Other conduct which could reasonably be considered inappropriate in a professional setting
 
-This is not an exhaustive list of things that you can or can't do. Rather, take it in the spirit in which it's intended — a guide to make it easier to be excellent to each other. We expect it to be followed in spirit as much as in the letter.
-
-With that said, a healthy community must allow for disagreement and debate. The Code of Conduct is not a mechanism for people to silence others with whom they disagree.
-
 
 ## Community Code of Conduct Working Group
 

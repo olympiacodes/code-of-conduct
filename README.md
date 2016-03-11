@@ -84,7 +84,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 * [Contributor Covenant][contributor-covenant]
 * [Go Community Code of Conduct][go]
 * [Elastic Community Code of Conduct][elastic]
-
+* [Geek Feminism Wiki][geek-feminism]
 
 [kevinstock]: https://hackbellingham.slack.com/messages/@kevinstock/
 [report]: http://goo.gl/forms/1jLQIDF9Ma
@@ -92,3 +92,4 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 [go]: https://golang.org/conduct
 [elastic]: https://www.elastic.co/community/codeofconduct
 [freebsd]: https://www.freebsd.org/internal/code-of-conduct.html
+[geek-feminism]: http://geekfeminism.wikia.com/wiki/Conference_anti-harassment/Policy

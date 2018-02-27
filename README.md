@@ -88,8 +88,8 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 * [Elastic Community Code of Conduct][elastic]
 
 
-[kevinstock]: https://hackbellingham.slack.com/messages/@kevinstock/
-[nathancarnes]: https://hackbellingham.slack.com/messages/@nathancarnes/
+[kevinstock]: https://bellinghamcodes.slack.com/messages/@kevinstock/
+[nathancarnes]: https://bellinghamcodes.slack.com/messages/@nathancarnes/
 
 [report]: http://goo.gl/forms/1jLQIDF9Ma
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/

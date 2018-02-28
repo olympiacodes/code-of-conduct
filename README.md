@@ -56,6 +56,7 @@ With that said, a healthy community must allow for disagreement and debate. The 
 The Community Code of Conduct Working Group is a group of people that are responsible for handling conduct-related issues. Their purpose is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. They are:
 
 * Kevin Stock ([@kevinstock][kevinstock])
+* Auresa Gaia Nyctea ([@resa][resa])
 * Nathan Carnes ([@nathancarnes][nathancarnes])
 
 
@@ -89,6 +90,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 
 
 [kevinstock]: https://bellinghamcodes.slack.com/messages/@kevinstock/
+[resa]: https://bellinghamcodes.slack.com/messages/@resa/
 [nathancarnes]: https://bellinghamcodes.slack.com/messages/@nathancarnes/
 
 [report]: http://goo.gl/forms/1jLQIDF9Ma

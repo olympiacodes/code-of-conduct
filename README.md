@@ -63,11 +63,13 @@ Note that the goal of the Code of Conduct and the Working Group is to resolve co
 
 This document is inspired and adapated from Codes of Conduct of other communities and open source projects, including:
 
+* [bellingham.codes][bellinghamcodes-codeofconduct]
 * [Contributor Covenant][contributor-covenant]
 * [Go Community Code of Conduct][go]
 * [Elastic Community Code of Conduct][elastic]
 * [Geek Feminism Wiki][geek-feminism]
 
+[bellinghamcodes-codeofconduct]: http://bellingham.codes/code-of-conduct
 [amiel]: https://olympiacodes.slack.com/messages/@amiel/
 [report]: mailto:amiel.martin@gmail.com
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/

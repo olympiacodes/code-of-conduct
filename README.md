@@ -69,7 +69,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 * [Geek Feminism Wiki][geek-feminism]
 
 [amiel]: https://olympiacodes.slack.com/messages/@amiel/
-[report]: http://goo.gl/forms/1jLQIDF9Ma
+[report]: mailto:amiel.martin@gmail.com
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/
 [go]: https://golang.org/conduct
 [elastic]: https://www.elastic.co/community/codeofconduct

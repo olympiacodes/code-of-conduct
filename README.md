@@ -38,9 +38,7 @@ Examples of unacceptable behavior by participants include:
 
 The Community Code of Conduct Working Group is a group of people that are responsible for handling conduct-related issues. Their purpose is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. They are:
 
-* Kevin Stock ([@kevinstock][kevinstock])
-* Auresa Gaia Nyctea ([@resa][resa])
-* Nathan Carnes ([@nathancarnes][nathancarnes])
+* Amiel Martin ([@amiel][amiel])
 
 
 ## Handling Issues
@@ -71,7 +69,6 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 * [Geek Feminism Wiki][geek-feminism]
 
 [amiel]: https://olympiacodes.slack.com/messages/@amiel/
-
 [report]: http://goo.gl/forms/1jLQIDF9Ma
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/
 [go]: https://golang.org/conduct

@@ -1,6 +1,6 @@
-# bellingham.codes Community Code of Conduct
+# olympia.codes Community Code of Conduct
 
-We are committed to providing a friendly, safe and welcoming environment for experienced and aspiring technologists, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. 
+We are committed to providing a friendly, safe and welcoming environment for experienced and aspiring technologists, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion.
 
 The purpose of our Community Code of Conduct is to ensure that all participants have the best possible experience, while fostering an open and welcoming environment.
 
@@ -70,9 +70,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 * [Elastic Community Code of Conduct][elastic]
 * [Geek Feminism Wiki][geek-feminism]
 
-[kevinstock]: https://bellinghamcodes.slack.com/messages/@kevinstock/
-[resa]: https://bellinghamcodes.slack.com/messages/@resa/
-[nathancarnes]: https://bellinghamcodes.slack.com/messages/@nathancarnes/
+[amiel]: https://olympiacodes.slack.com/messages/@amiel/
 
 [report]: http://goo.gl/forms/1jLQIDF9Ma
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/

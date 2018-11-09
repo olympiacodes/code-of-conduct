@@ -72,6 +72,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 
 [bellinghamcodes-codeofconduct]: http://bellingham.codes/code-of-conduct
 [amiel]: https://olympiacodes.slack.com/messages/@amiel/
+[luke]: https://olympiacodes.slack.com/messages/@luke/
 [report]: mailto:amiel.martin@gmail.com,lukebowerman@gmail.com
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/
 [go]: https://golang.org/conduct

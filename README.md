@@ -39,6 +39,7 @@ Examples of unacceptable behavior by participants include:
 The Community Code of Conduct Working Group is a group of people that are responsible for handling conduct-related issues. Their purpose is to de-escalate conflicts and try to resolve issues to the satisfaction of all parties. They are:
 
 * Amiel Martin ([@amiel][amiel])
+* Luke Bowerman ([@luke][luke])
 
 
 ## Handling Issues
@@ -71,7 +72,7 @@ This document is inspired and adapated from Codes of Conduct of other communitie
 
 [bellinghamcodes-codeofconduct]: http://bellingham.codes/code-of-conduct
 [amiel]: https://olympiacodes.slack.com/messages/@amiel/
-[report]: mailto:amiel.martin@gmail.com
+[report]: mailto:amiel.martin@gmail.com,lukebowerman@gmail.com
 [contributor-covenant]: http://contributor-covenant.org/version/1/4/
 [go]: https://golang.org/conduct
 [elastic]: https://www.elastic.co/community/codeofconduct
